@@ -69,7 +69,7 @@ const CameraComponent = ({ onCameraReady }) => {
         className="absolute top-0 left-0 w-full h-full object-cover rounded-lg"
       />
       {status !== "playing" && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black bg-opacity-50 rounded-lg">
+        <div className="absolute inset-0 flex items-center justify-center bg-black/50 rounded-lg">
           <p className="text-white">
             {status === "initializing"
               ? "Starting camera..."
@@ -82,7 +82,8 @@ const CameraComponent = ({ onCameraReady }) => {
           <p className="font-bold">Error:</p>
           <p>{error}</p>
           <p className="mt-2">
-            Please ensure you've granted camera permissions to this website.
+            Please ensure you&apos;ve granted camera permissions to this
+            website.
           </p>
         </div>
       )}
