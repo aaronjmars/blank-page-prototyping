@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "dotenv": "^16.4.5",
-    "formidable": "^3.5.1",
+    "formidable": "^3.5.4",
     "next": "14.2.5",
     "openai": "^4.52.7",
     "react": "^18",
