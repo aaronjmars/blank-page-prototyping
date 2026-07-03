@@ -6,20 +6,21 @@
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
     "start": "next start -H 0.0.0.0",
-    "lint": "next lint"
+    "lint": "eslint ."
   },
   "dependencies": {
     "dotenv": "^16.4.5",
     "formidable": "^3.5.4",
-    "next": "14.2.5",
+    "next": "^16",
     "openai": "^6.45.0",
-    "react": "^18",
-    "react-dom": "^18"
+    "react": "^19",
+    "react-dom": "^19"
   },
   "devDependencies": {
-    "eslint": "^8",
-    "eslint-config-next": "14.2.5",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "^16",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^4"
   }
 }
