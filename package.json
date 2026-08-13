@@ -15,7 +15,7 @@
     "dotenv": "^17.4.2",
     "formidable": "^3.5.4",
     "next": "^16",
-    "openai": "^7.3.0",
+    "openai": "^7.4.0",
     "react": "^19",
     "react-dom": "^19"
   },
@@ -23,7 +23,7 @@
     "@tailwindcss/postcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "^16",
-    "postcss": "^8.5.25",
+    "postcss": "^8.5.26",
     "tailwindcss": "^4"
   },
   "overrides": {
