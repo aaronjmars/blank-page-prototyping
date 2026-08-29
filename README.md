@@ -36,3 +36,7 @@ If you would like to contribute, please follow these steps:
 - Make your changes and commit them.
 - Push your changes to your forked repository.
 - Submit a pull request to the main repository.
+
+---
+
+Built by [Aaron Elijah Mars](https://aaronjmars.com), founder of Aeon and MiroShark · [@aaronjmars](https://github.com/aaronjmars)
