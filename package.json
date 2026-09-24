@@ -15,7 +15,7 @@
     "dotenv": "^18.0.1",
     "formidable": "^3.5.4",
     "next": "^16",
-    "openai": "^7.15.0",
+    "openai": "^7.20.0",
     "react": "^19",
     "react-dom": "^19"
   },
