@@ -12,7 +12,6 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "dotenv": "^18.0.1",
     "formidable": "^3.5.4",
     "next": "^16",
     "openai": "^7.20.0",
