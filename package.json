@@ -12,7 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "dotenv": "^17.4.2",
+    "dotenv": "^18.0.1",
     "formidable": "^3.5.4",
     "next": "^16",
     "openai": "^7.15.0",
