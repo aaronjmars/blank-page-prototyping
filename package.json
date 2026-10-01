@@ -14,7 +14,7 @@
   "dependencies": {
     "formidable": "^3.5.4",
     "next": "^16",
-    "openai": "^7.20.0",
+    "openai": "^7.23.0",
     "react": "^19",
     "react-dom": "^19"
   },
